@@ -49,7 +49,7 @@ I'm a penetration tester currently working at **Dawateislami**, conducting secur
 
 ## 📊 TryHackMe
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mmuzammilkhan.png)](https://tryhackme.com/r/p/mmuzammil.khan)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mmuzammilkhan.png)](https://tryhackme.com/r/p/mmuzammilkhan)
 
 ---
 
