@@ -126,4 +126,4 @@ If exploited against a production server, an attacker could:
 ---
 
 *Written by Muhammad Muzammil Khan — Penetration Tester*  
-*TryHackMe Profile: https://tryhackme.com/r/p/mmuzammil.khan*
+*TryHackMe Profile: https://tryhackme.com/r/p/mmuzammilkhan*
