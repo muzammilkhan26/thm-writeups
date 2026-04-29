@@ -153,4 +153,4 @@ user_data = db.query("SELECT * FROM users WHERE id = ?", session.authenticated_u
 ---
 
 *Written by Muhammad Muzammil Khan — Penetration Tester*  
-*TryHackMe Profile: https://tryhackme.com/r/p/mmuzammil.khan*
+*TryHackMe Profile: https://tryhackme.com/r/p/mmuzammilkhan*
